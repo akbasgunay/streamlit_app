@@ -1,0 +1,4 @@
+sklearn
+streamlit
+scikit-learn
+pickle
